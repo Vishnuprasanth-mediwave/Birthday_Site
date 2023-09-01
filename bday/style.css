@@ -34,11 +34,11 @@ body{
     height: 350px;
     border: 5px solid white;
     border-radius: 10px;
-    background-image: url(photo-1549465220-1a8b9238cd48.jpeg);
+    background-image: url(images/photo-1549465220-1a8b9238cd48.jpeg);
     background-size: cover;
 }
 .img2:hover{
-    background-image: url("61SWci61B+L.jpg");
+    background-image: url("images/61SWci61B+L.jpg");
     background-size: 100%;
 }
 .img3 {
@@ -47,10 +47,10 @@ body{
     height: 350px;
     border: 5px solid pink;
     border-radius: 10px;
-    background-image: url(birthday-gift-christmas-present-blue-box-isolated-white-background-birthday-gift-christmas-present-blue-box-isolated-white-131674535.webp);
+    background-image: url("images/birthday-gift-christmas-present-blue-box-isolated-white-background-birthday-gift-christmas-present-blue-box-isolated-white-131674535.webp");
     background-size: cover;
 }
 .img3:hover{
-    background-image: url(200w.webp);
+    background-image: url(images/200w.webp);
     background-size: 100%;
 }
